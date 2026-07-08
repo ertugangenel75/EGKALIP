@@ -303,4 +303,4 @@ EG_KALIP_V26.extension/
 ## Lisans
 
 © 2024–2026 Ertuğan Genel / EGBIM. Tüm hakları saklıdır.  
-Ticari kullanım için iletişime geçin: [egbim.com](https://egbim.com)
+Ticari kullanım için iletişime geçin
